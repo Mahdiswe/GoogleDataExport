@@ -1,7 +1,8 @@
 # GoogleDataExport
 Python tool that download GIS data from Google Places repository
 ----------------------------------------------------------------------
-# author: Mahdi Al Qateefi
+author: Mahdi Al Qateefi
+
 This is short instructions for running the project.
 
 This app requires:
